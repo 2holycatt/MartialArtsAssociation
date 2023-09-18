@@ -1,0 +1,259 @@
+/* ใช้ทุกหน้า */
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.headr1{
+    padding: 0.5em;
+    display: grid;
+    grid-template-columns: 0.5fr 1.5fr;
+    background-color: #181D31;
+}
+
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+.logo{
+    color: white;
+    display: block;
+    padding-left: 2em;
+    font-size: 1.2em; 
+    padding: 1em;
+    padding-left: 2em;
+}
+
+.menu_li{
+    float: left;
+}
+  
+.menu_li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+}
+  
+.menu_li a:hover {
+    color: #F49D1A;
+}
+
+.div_logo_2{
+    width: 100%;
+    
+}
+
+.logo_2{
+    text-align: center;
+    font-size:1.5em;
+    font-weight: bold;
+}
+
+.sub_pic_main{
+    width: 100%;
+    height: auto;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+}
+
+.next_to_logo{
+    background-color: #181D31;
+    padding-bottom: 10em;
+}
+
+.p_logo_footer{
+    text-align: center;
+    font-size:2em;
+    font-weight: bold;
+    
+    
+    
+}
+
+.p_logo_footer::after {
+    
+    content: "";
+    display: block;
+    width: 15%;
+    height: 0.22em;
+    background-color: #181D31;
+    margin: 0.45em auto;
+}
+
+.icon_footer{
+    width: 100%;
+}
+
+.footer_icon{
+    display: flex;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+}
+
+.copyright{
+    background-color: #181D31;
+    padding: 0.2em;
+    color: white;
+}
+
+.p_copyr{
+    text-align: center;
+}
+
+h1{
+    color:#181D31;
+    display: flex;
+    justify-content: center;
+    margin: 0.5em;
+
+}
+
+article{
+    
+    background-color: #1e2337;
+    
+    
+
+}
+
+.ad_nxt_art{
+    width: 100%;
+    height: auto;
+    margin: 2em auto !important;
+    
+}
+
+.logo_footer{
+    margin-top: 2em;
+}
+
+.copyright{
+    margin-top: 2em;
+
+}
+
+
+
+/* ใช้ทุกหน้า */
+
+/* ใช้ทุกหน้า */
+
+
+
+
+
+.ad_btn, .link_ad_btn{
+    list-style: none;
+    margin: 2em auto;
+    
+    text-decoration: none !important;
+    color:  #181D31;
+    background-color: #F49D1A;
+    width: 20%;
+    text-align: center;
+    padding: 1em;
+    border-radius: 0.2em;
+    
+
+}
+
+.menu{
+    margin-left: 7em;
+} 
+
+
+
+.ad_btn:hover .link_ad_btn, .link_ad_btn:hover .ad_btn , .link_ad_btn:hover ,.ad_btn:hover{
+    color: white;
+    transition: 0.3s;
+    
+}
+
+.ad_btn:hover, .link_ad_btn:hover .ad_btn{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+article{
+    padding: 2em 2em;
+}
+
+.n11_input_div{
+    width: 50%;
+    display: flex;
+    margin: 0 auto;
+    color: white;
+}
+
+.sub_div_in_each_menu{
+    margin: 0 auto;
+}
+
+.submut_btn{
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.input_text3{
+    font-size: larger;
+    margin-top: 0.5em;
+    padding: 0.25em 0;
+
+}
+
+.sub_div_in_each_menu{
+    margin: 0.5em auto;
+}
+
+.label_login{
+    font-size: larger;
+    
+}
+
+.submut_btn2{
+    display: flex;
+    margin: 1em auto;
+    width: 12%;
+    padding: 0.5em;
+    justify-content: center;
+    background-color: #F49D1A;
+   
+    border: none;
+    border-radius: 0.2em;
+    font-size: large;
+
+}
+
+.submut_btn2:hover{
+    cursor: pointer;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition: 0.3s;
+}
+
+.p_text{
+	text-align:center;
+	color:red;
+}
+
+h2{
+	color:white;
+	font-weight:bold;
+	text-align:center;
+	margin-bottom:0.5em;
+}
+
+
+
+
+

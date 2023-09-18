@@ -1,0 +1,62 @@
+.ok_button{
+    width: 40%;
+    height: 60%;
+    background-color: #F49D1A;
+    border-radius: 0.25em;
+    border-style: none;
+    margin: 1em 0;
+    
+    
+}
+
+.ok_button:hover{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.n5_input_div{
+    margin: 2em 4em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.show_imgNtext{
+	width: 30%;
+	
+	margin: 2em auto;
+	background-color: white;
+	color: orange;
+	border-radius: 0.5em;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+.imgAth{
+	width:100%;
+	height:auto;
+	display:flex;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+	
+	
+	
+}
+
+.div_text{
+	display:flex;
+	margin: 1em auto;
+	
+}
+
+.akaText{
+	/* text-align:center;
+	padding: 0.5em;
+	background-color: orange;
+	color:#181D31;
+	border-radius: 0.5em;
+	font-size: larger; */
+}
+
+
+
+

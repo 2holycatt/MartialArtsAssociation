@@ -1,0 +1,53 @@
+.sub_div_add_funtion{
+    width: 50%;
+    background-color: #181D31;
+    padding: 2em 1em;
+    margin: 1em auto;
+}
+
+.div_sub_title{
+    display: flex;
+    margin: 0 auto;
+}
+
+.p_sub_title, .input_text2{
+    display: flex;
+    margin: 0.25em auto;
+    
+}
+
+.p_sub_title{
+    font-size: x-large;
+}
+
+.input_text2{
+    width: 30%;
+}
+
+.hr_line{
+    margin: 2.25em auto;
+    width: 70%;
+}
+
+.n2_input_div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.input_text{
+    width: 75%;
+    
+}
+
+.submut_btn{
+    width: 30%;
+    margin: 0 auto;
+    padding: 0.75em 0;
+}
+
+.headr1{
+    padding: 0.5em;
+    display: grid;
+    grid-template-columns: 0.5fr 1.5fr;
+    background-color: #181D31;
+}
